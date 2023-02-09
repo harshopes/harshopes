@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshopes" target="blank"><img src="https://img.shields.io/twitter/follow/harshopes?logo=twitter&style=for-the-badge" alt="harshopes" /></a> </p>
 
-- 🔭 Recent project [Website Clone](https://harshopes.github.io/UsabilityClone/)
+- 🔭 Recent project [Fact Generator](https://harshopes.github.io/Fact-generator/)
 
 - 🌱 I’m currently learning **Bootstrap,React,MongoDB,JavaScript**
 
