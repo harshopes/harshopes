@@ -1,7 +1,6 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhnwebmarketingseo.files.wordpress.com%2F2018%2F06%2Fgiphy.gif%3Fw%3D1108&f=1&nofb=1&ipt=a8f493b8117db11d406013c429c284023efcc32b552d586e7e471457d641dc40&ipo=images)](https://github.com/harshopes)
+
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">A passionate web-developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.codecorners.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fsenior-front-end-developer-openings-1.gif&f=1&nofb=1&ipt=c670e4785093a150376b224da566c3975071ef297bfff9723c086d9ed1031322&ipo=images">
 
 <p align="left"> <a href="https://twitter.com/harshopes" target="blank"><img src="https://img.shields.io/twitter/follow/harshopes?logo=twitter&style=for-the-badge" alt="harshopes" /></a> </p>
 
