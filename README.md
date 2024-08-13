@@ -5,14 +5,8 @@
 <p align="left"> <a href="https://twitter.com/harshopes" target="blank"><img src="https://img.shields.io/twitter/follow/harshopes?logo=twitter&style=for-the-badge" alt="harshopes" /></a> </p>
 
 - 🔭 Recent project [Paytm Project](https://github.com/harshopes/Paytm/)
-
-- 🌱 I’m currently learning **Bootstrap,React,MongoDB,JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/harshopes](https://github.com/harshopes)
-
-- 💬 Ask me about **HTML,CSS,Bootstrap**
-
-- 📫 How to reach me **harshopes@gmail.com**
+  
+- 📫 How to reach me **sharmaharsh180103@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
