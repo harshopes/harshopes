@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshopes" target="blank"><img src="https://img.shields.io/twitter/follow/harshopes?logo=twitter&style=for-the-badge" alt="harshopes" /></a> </p>
 
-- 🔭 Recent project [Paytm Project](https://github.com/harshopes/Paytm/)
+- 🔭 Recent project [Medium Blog](https://github.com/harshopes/Medium_Blog)
   
 - 📫 How to reach me **sharmaharsh180103@gmail.com**
 
