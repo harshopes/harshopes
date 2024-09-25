@@ -18,7 +18,7 @@
 
 ---
 
-## Here's my tech stack ⚙️
+## Technologies ⚙️
 
 <table>
   <tr>
